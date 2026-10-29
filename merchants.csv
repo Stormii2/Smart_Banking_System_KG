@@ -1,0 +1,6 @@
+merchant_id,name,category,risk_level
+M001,Amazon India,online,low
+M002,Suspicious Forex Ltd,forex,high
+M003,Big Bazaar,retail,low
+M004,ATM-SBI-Chennai,atm,medium
+M005,CryptoExchange247,crypto,high

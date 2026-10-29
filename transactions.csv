@@ -1,0 +1,9 @@
+txn_id,amount,txn_type,timestamp,is_flagged,fraud_score,source_account,destination_account,merchant_id,device_id,location_id
+T001,2500.00,debit,2024-09-15T10:30:00,false,0.05,A001,,M001,D001,L001
+T002,75000.00,transfer,2024-09-15T23:45:00,true,0.89,A003,A005,M005,D003,L003
+T003,1200.00,debit,2024-09-16T14:20:00,false,0.02,A002,,M003,D002,L002
+T004,450000.00,transfer,2024-09-16T03:10:00,true,0.95,A003,A005,M002,D005,L005
+T005,8500.00,debit,2024-09-17T11:00:00,false,0.12,A004,,M004,D004,L004
+T006,120000.00,transfer,2024-09-17T02:30:00,true,0.91,A005,A003,M005,D005,L003
+T007,3200.00,credit,2024-09-17T09:00:00,false,0.03,A001,,,,
+T008,95000.00,transfer,2024-09-18T01:15:00,true,0.88,A005,A003,M002,D003,L005

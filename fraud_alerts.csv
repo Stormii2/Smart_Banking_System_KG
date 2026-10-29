@@ -1,0 +1,5 @@
+alert_id,alert_type,severity,status,triggered_by_txn,alert_for_customer
+FA001,amount_spike,high,investigating,T002,C003
+FA002,geo_anomaly,critical,open,T004,C003
+FA003,velocity,high,investigating,T006,C005
+FA004,device_change,medium,resolved,T008,C005

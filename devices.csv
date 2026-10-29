@@ -1,0 +1,6 @@
+device_id,device_type,os,ip_address,is_trusted
+D001,mobile,Android 14,192.168.1.10,true
+D002,desktop,Windows 11,103.25.48.77,true
+D003,mobile,iOS 17,45.33.128.99,false
+D004,atm,ATM-OS,10.0.0.55,true
+D005,mobile,Android 13,185.220.101.42,false

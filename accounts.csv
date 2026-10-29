@@ -1,0 +1,7 @@
+account_id,account_type,balance,currency,status,owner_customer_id
+A001,savings,250000.00,INR,active,C001
+A002,checking,85000.00,INR,active,C002
+A003,savings,520000.00,INR,frozen,C003
+A004,credit,150000.00,INR,active,C004
+A005,savings,45000.00,INR,active,C005
+A006,checking,320000.00,INR,active,C001

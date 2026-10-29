@@ -1,0 +1,6 @@
+customer_id,name,email,phone,risk_score,kyc_verified
+C001,Aarav Sharma,aarav@email.com,+91-9876543210,0.15,true
+C002,Priya Patel,priya@email.com,+91-9876543211,0.08,true
+C003,Vikram Singh,vikram@email.com,+91-9876543212,0.72,true
+C004,Neha Gupta,neha@email.com,+91-9876543213,0.05,true
+C005,Rahul Verma,rahul@email.com,+91-9876543214,0.85,false
